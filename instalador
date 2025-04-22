@@ -1,3 +1,5 @@
+# Script de instalação fácil Zabbix 6 e MySQL 8 em Debian 11
+
 #!/bin/sh
 
 # Correção de PATH
